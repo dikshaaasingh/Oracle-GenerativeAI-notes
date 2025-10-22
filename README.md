@@ -18,7 +18,7 @@ These notes are based on the **Oracle Generative AI** learning path, which cover
 * **RAG using Generative AI service and oracle 23 AI verctor search**
 * **Chatbot using Generative AI agent service**
 
-### 🚀 Usage
+### Usage
 
 You can:
 
@@ -26,7 +26,7 @@ You can:
 * Use them as a reference for your **Oracle AI Certification prep**
 * Clone this repository for personal study:
 
-### 🧑‍💻 Author
+### Author
 
 **Diksha Singh**
 *Data Analyst | SQL, Python, Power BI | Data Visualization & AI Enthusiast*
